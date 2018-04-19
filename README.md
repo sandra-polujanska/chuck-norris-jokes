@@ -1,2 +1,3 @@
-# zad-12-1
-https://sandra-polujanska.github.io/zad-12-1/
+Click the button and get Chuck Norris's random joke :) 
+
+Used: HTML, JS, Ajax, API
